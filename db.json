@@ -1,0 +1,11 @@
+{
+  "eligibilityCycle": "1",
+  "eligibilityStatus": "مستحق",
+  "IneligibilityReasons": [
+    {
+      "ineligibilityCode": 1001,
+      "ineligibilityReasonAr": "وثائق المتقدم لم تتطابق مع سجلات الاحوال المدنية",
+      "ineligibilityReasonEn": "Dear Citizen, the inserted id is not matched with the result of NIC please call the CSA number ****"
+    }
+  ]
+}
